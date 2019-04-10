@@ -13,5 +13,8 @@ public class Main {
 
     String c = result.div(15);
     System.out.println(c);
+
+    String d = result.div(7);
+    System.out.println( d);
   }
 }
